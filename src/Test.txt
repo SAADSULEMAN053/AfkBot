@@ -5,3 +5,5 @@ Force push.
 delete matching branches.
 
 This is me committing changes from the experimental branch so, I can later on merge it into main.
+
+This changes will stay in experimental branch and then will be merged with Third Branch and then Third branch will be merged with master.
